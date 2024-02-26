@@ -26,8 +26,7 @@ To utilize the Stopwatch Timer Web App, simply open the `index.html` file in you
 - **JavaScript**: Implements the stopwatch timer functionality and lap recording logic.
 
 ## Preview
-
-![Stopwatch Timer Web App Preview](![stoptimerwatch](https://github.com/AugustineTamba/Stop-watch-timer-web-app/assets/51299834/50a68e47-d5e3-4c7a-997d-1a76427849fb))
+![stoptimerwatch](https://github.com/AugustineTamba/Stop-watch-timer-web-app/assets/51299834/6e7934a8-d5ec-4826-888b-6162f4275b6c)
 
 ## Future Improvements
 
