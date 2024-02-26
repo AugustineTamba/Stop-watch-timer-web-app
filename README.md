@@ -27,7 +27,7 @@ To utilize the Stopwatch Timer Web App, simply open the `index.html` file in you
 
 ## Preview
 
-![Stopwatch Timer Web App Preview](preview.png)
+![Stopwatch Timer Web App Preview](![stoptimerwatch](https://github.com/AugustineTamba/Stop-watch-timer-web-app/assets/51299834/50a68e47-d5e3-4c7a-997d-1a76427849fb))
 
 ## Future Improvements
 
